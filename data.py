@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
     )
-image = Image.open('C:\\Users\\Admin\\Desktop\\youtubedata\\youtube.jpg')
+image = Image.open('youtube.jpg')
 st.image(image)
 st.title (":red[Youtube Data Harvesting]") 
 
