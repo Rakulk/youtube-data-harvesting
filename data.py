@@ -428,7 +428,7 @@ if choice=="Spicy Questions":
         host="localhost",
         user="root",
         password="Rakul@9360721393",
-        databse='youtubedata',
+        database='youtubedata',
         autocommit=True)
         
         mycursor=mydb.cursor(buffered=True)
